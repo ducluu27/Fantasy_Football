@@ -4,7 +4,7 @@
 Creating a linear regression machine learning model to predict the 2021 Fantasy Football Draft. The data was provided by Pro Football Reference 
 
 ## Machine Learning Model
-This is my first attempt creating a machine learning model that can predict the 2021 Fantasy Football draft. It is still a work in progress.
+The 2021_Analysis is my first attempt creating a machine learning model that can predict the 2021 Fantasy Football draft. It is still a work in progress. I was able to create a linear regression model but for some reason Jordan Howard is the 17 best rb for 2021. This is definitely incorrect. I will keep working on this until it makes more sense.
 
 ## Player Comparison 
 The FF_Player contains the player comparison dataframe. I wanted to use the skills I acquire in the boot camp to help me display data better for Fantasy Football drafts. It is very simple to use and read:
