@@ -1,7 +1,7 @@
 # Fantasy_Football
 
 ## Overview
-Creating a linear regression machine learning model to predict the 2021 Fantasy Football Draft. The data was provided by Pro Football Reference 
+The data was provided by Pro Football Reference. My first attempt to creating a linear regression machine learning model to predict the 2021 Fantasy Football Draft. The FF_PLayer notebook is to help assist people compare 2 different players stats on 1 dataframe. The reason why I created this tool is because I didn't want to open 10 tabs on draft day to do research on a player's stats from the last 3 years. It is so much easier if I just had it all in one dataframe and given the ability to change the players by updating the input values. 
 
 ## Machine Learning Model
 The 2021_Analysis is my first attempt creating a machine learning model that can predict the 2021 Fantasy Football draft. It is still a work in progress. I was able to create a linear regression model but for some reason Jordan Howard is the 17 best rb for 2021. This is definitely incorrect. I will keep working on this until it makes more sense.
