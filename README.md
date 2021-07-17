@@ -30,12 +30,12 @@ I have created a Tableau Dashboard if you want something more colorful and easie
       The top half of the dashboard shows how many times the quarterback has thrown and breaks down how many receivers are targeted for each season. It looks like DeAndre Hopkins was the most heavily relied on reciever last year. Christian Kirk's production went down because of the newly acquired Hopkins at the start of the 2020 season. Also, This shows that Chase Edmonds and Drake were also targeted in the passing game. 
 
 
-   ![Image]()
+   ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/Attemptsv2.png)
 
 
       There other half of the dashboard is the running back situation.As you can see this team utilizes 2 main running backs and from 2019-2020 with the addition of Kyler Murray, they split carries between the 3. But for the 2021 season with the departure of Kenyan Drake and the addition to James Connor it will be interesting how the workload will be split. I think what will happen is that James Connor will end up with the bulk of the carries but Edmonds will end up with all the targets.
 
-   ![Image]()
+   ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/Targetsv2.png)
 
    
 
