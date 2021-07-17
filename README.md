@@ -27,7 +27,7 @@ Link: https://public.tableau.com/app/profile/duc8516/viz/FantasyFootballDashboar
 
 I have created a Tableau Dashboard if you want something more colorful and easier to understand. In this dashboard there are as of right now 2 charts. One displays the runningback percentage of attempts per year for a given team. The other one displays a team quarterback/quaterbacks throw attempts per years. Within that throw attempts the chart breaks down the number of targets to a given receiver, tight end, and runningback. For example lets go through the Cardinals offense from 2018-2020:
 
-   The top half of the dashboard shows how many times the quarterback has thrown and breaks down how many receivers are targeted for each season. It looks like DeAndre Hopkins was the most heavily relied on reciever last year. Christian Kirk's production went down because of the newly acquired Hopkins at the start of the 2020 season. Also, This shows that Chase Edmonds and Drake were also targeted in the passing game. 
+   The top half of the dashboard shows how many times the quarterback has thrown and breaks down how many receivers are targeted for each season. It looks like DeAndre Hopkins was the most heavily relied on reciever last year. Christian Kirk's production went down because of the newly acquired Hopkins at the start of the 2020 season. Also, this shows that Chase Edmonds and Drake were also targeted in the passing game. 
 
 
    ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/Attemptsv2.png)
