@@ -21,6 +21,10 @@ The FF_Player contains the player comparison dataframe. I wanted to use the skil
 
    3. If you want to change any of the players out just go back to the input line press the enter key and repeat steps 1 and 2.
 
+## Quarterback Analysis
+After creating the player comparison dataframe, I wanted to do some analysis on the data. I was able to export the dataframe from Python to Excel, then from Excel into a Microsoft SQL Server. I was able to perform an analysis on the QB's for the 2020 season. I wanted to calculate what percentage would a pass being completed be a touchdown. So, I took the TD column and divided by the Cmp column and the results showed the the 2020 MVP Aaron Rodgers led the leage with 13% of his completed passes being a TD. Which is an insane number. The same showed for 2018 and 2019. In 2018 season Patrick Mahomes won MVP with 13% of his completed passes being TD's, and similarily Lamar Jackson 2019 MVP had 13%. Also, in my findings for the 2020 season I noticed that the percentage TD completion the grouping of qb's from 10% and higher kinda make sense. The QB's are Aaron Rodger, Lamar Jackson, Ryan Tannehill, Rusell Wilson, and Kirk Cousins. Personally, I think Cousins is the outlier but the other QB's are top tier QB's for fantasy. And the next grouping it does make sense as well. 
+
+   ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/QB_Analysis_SQL.png)
 ## Dashboard
 
 Link: https://public.tableau.com/app/profile/duc8516/viz/FantasyFootballDashboard_16264096736240/Dashboard1?publish=yes 
