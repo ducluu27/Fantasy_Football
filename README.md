@@ -9,7 +9,7 @@ The 2021_Analysis is my first attempt creating a machine learning model that can
 ## Player Comparison 
 The FF_Player contains the player comparison dataframe. I wanted to use the skills I acquire in the boot camp to help me display data better for Fantasy Football drafts. It is very simple to use and read:
 
-   1. Run each line until you get to the input(). Type in the player's name you want to compare. Make sure spelling and correct letters are capitalized. You will know it is correct if data appears in the dataframe.
+   1. Run each line until you get to the input(). Type in the player's name you want to compare. Make sure spelling and correct letters are capitalized. You will know it is correct if data appears in the dataframe if their is a spelling error it will say "Check Spelling".
 
    ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/input1.png)
 
