@@ -17,7 +17,7 @@ The FF_Player contains the player comparison dataframe. I wanted to use the skil
 
    2. Run the rest of the lines and the final player_merge will display the players from both inputs sorted by year.
 
-   ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/final.png)
+   ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/final-1.png)
 
    3. If you want to change any of the players out just go back to the input line press the enter key and repeat steps 1 and 2.
 
