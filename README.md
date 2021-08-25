@@ -11,9 +11,9 @@ The FF_Player contains the player comparison dataframe. I wanted to use the skil
 
    1. Run each line until you get to the input(). Type in the player's name you want to compare. Make sure spelling and correct letters are capitalized. You will know it is correct if data appears in the dataframe if their is a spelling error it will say "Check Spelling".
 
-   ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/input1.png)
+   ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/input_1.png)
 
-   ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/input2.png)
+   ![Image](https://github.com/ducluu27/Fantasy_Football/blob/main/Images/input_2.png)
 
    2. Run the rest of the lines and the final player_merge will display the players from both inputs sorted by year.
 
